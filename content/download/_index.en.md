@@ -6,4 +6,4 @@ description: "How to download"
 type : "docs"
 ---
 
-## Hellow world
+## Hello world
